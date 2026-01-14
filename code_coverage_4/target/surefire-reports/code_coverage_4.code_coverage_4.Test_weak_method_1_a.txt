@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: code_coverage_4.code_coverage_4.Test_weak_method_1_a
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.069 sec - in code_coverage_4.code_coverage_4.Test_weak_method_1_a

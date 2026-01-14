@@ -7,9 +7,7 @@ public class Function3 {
         if (x > 0) {
             result = result / x;
         }
-        int zero = 0;
-        result = result / zero;
+        result = result / 0;
         return String.format("result=%d", result);
     }
-
 }
